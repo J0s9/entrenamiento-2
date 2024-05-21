@@ -18,7 +18,7 @@
     text-align: center;
 }
 .section-portada > p:nth-child(1){
-    margin: 0;
+    margin-bottom: 15px;
     color: #3f4640;
     font-family: montserrat;
     font-size: 30px;

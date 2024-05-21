@@ -9,7 +9,7 @@
 .iglesia-conteiner p:nth-child(2){
     margin: 0;
     font-family: montserrat;
-    font-size: 16px;
+    font-size: medium;
     font-weight: bold;
     color:  #3f4640;
 }
@@ -17,7 +17,7 @@
     margin: 0;
     font-family: montserrat;
     color: #3f4640;
-    font-size: xx-small;
+    font-size: small;
     font-weight: bold;
 }
 .iglesia-conteiner p:nth-child(4){
@@ -25,7 +25,7 @@
     font-weight: lighter;
     font-family: montserrat;
     color: #3f4640;
-    font-size: xx-small;
+    font-size: small;
     font-style: italic;
 }
 .iglesia-conteiner > a{
@@ -33,5 +33,5 @@
     font-weight: bold;
     font-family: montserrat;
     color: #3f4640;
-    font-size: xx-small;
+    font-size: small;
 }
