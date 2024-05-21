@@ -1,0 +1,37 @@
+@font-face {
+    font-family: montserrat;
+    src: url(../../fonts/Montserrat-Regular.ttf);
+}
+.iglesia-conteiner {
+    display: inline-block;
+    text-align: center;
+}
+.iglesia-conteiner p:nth-child(2){
+    margin: 0;
+    font-family: montserrat;
+    font-size: 16px;
+    font-weight: bold;
+    color:  #3f4640;
+}
+.iglesia-conteiner p:nth-child(3) {
+    margin: 0;
+    font-family: montserrat;
+    color: #3f4640;
+    font-size: xx-small;
+    font-weight: bold;
+}
+.iglesia-conteiner p:nth-child(4){
+    margin: 0;
+    font-weight: lighter;
+    font-family: montserrat;
+    color: #3f4640;
+    font-size: xx-small;
+    font-style: italic;
+}
+.iglesia-conteiner > a{
+    margin: 0;
+    font-weight: bold;
+    font-family: montserrat;
+    color: #3f4640;
+    font-size: xx-small;
+}

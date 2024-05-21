@@ -1,0 +1,31 @@
+@font-face {
+    font-family: loubag;
+    src: url(../../fonts/Loubag-Regular.ttf);
+}
+.copa-conteiner {
+    margin: 0;
+    text-align: center;
+}
+.copa-conteiner p:nth-child(2),
+.copa-conteiner p:nth-child(3){
+    margin: 0;
+    font-family: loubag;
+    font-weight: bold;
+    color: #3f4640;
+    font-size: xx-small;
+}
+.copa-conteiner p:nth-child(4){
+    margin: 0;
+    font-size: xx-small;
+    font-weight: normal;
+    font-style: italic;
+    font-weight: lighter;
+    color: #3f4640;
+}
+.copa-conteiner > a{
+    margin: 0;
+    font-weight: bold;
+    font-family: montserrat;
+    color: #3f4640;
+    font-size: xx-small;
+}
