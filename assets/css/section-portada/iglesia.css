@@ -6,10 +6,15 @@
     display: inline-block;
     text-align: center;
 }
+.iglesia-conteiner img{
+    border: double 7px #63766C;
+    border-radius: 10px;
+    padding: 2px;
+}
 .iglesia-conteiner p:nth-child(2){
     margin: 0;
     font-family: montserrat;
-    font-size: medium;
+    font-size: small;
     font-weight: bold;
     color:  #3f4640;
 }
@@ -27,11 +32,16 @@
     color: #3f4640;
     font-size: small;
     font-style: italic;
+    margin-bottom: 16px;
 }
-.iglesia-conteiner > a{
-    margin: 0;
+.iglesia-conteiner  a{
     font-weight: bold;
     font-family: montserrat;
-    color: #3f4640;
+    color: #E6E6E6;
     font-size: small;
+    background-color: #3f4640;
+    padding: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-bottom: 100px;
 }
