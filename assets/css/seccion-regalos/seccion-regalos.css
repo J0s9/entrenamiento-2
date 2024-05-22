@@ -1,0 +1,10 @@
+.section-regalos {
+    height: 900px;
+    width: 100%;
+    background-image: url(../../img/seccion-portada.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    display: grid;
+    place-content: center;
+}
